@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonsWay.Logic", "DragonsWay.Logic\DragonsWay.Logic.csproj", "{53CCC574-9F57-4189-9FC0-D0218AB2D51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonsWay.UI", "..\DragonsWay.UI\DragonsWay.UI.csproj", "{3097DEC4-C2EF-4AE1-A292-7F69AF4983A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CCC574-9F57-4189-9FC0-D0218AB2D51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CCC574-9F57-4189-9FC0-D0218AB2D51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CCC574-9F57-4189-9FC0-D0218AB2D51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CCC574-9F57-4189-9FC0-D0218AB2D51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3097DEC4-C2EF-4AE1-A292-7F69AF4983A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3097DEC4-C2EF-4AE1-A292-7F69AF4983A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3097DEC4-C2EF-4AE1-A292-7F69AF4983A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3097DEC4-C2EF-4AE1-A292-7F69AF4983A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F0E03F-B422-44C5-B0DD-C9F3B129E893}
+	EndGlobalSection
+EndGlobal
